@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.MainWraper{  
+	background:#ffffff; 
+	padding:20px; 
+	text-align:left;
+}
+.fileUpload{
+	font-size:16px;
+	margin-top:30px;
+} 
+.searchImg{
+	vertical-align:middle;
+}
